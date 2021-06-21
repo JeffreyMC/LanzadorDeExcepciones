@@ -2,7 +2,7 @@
 
 Programa que lanza 4 de las excepciones más comunes en Java.
 
-* FormatNumberException
+* NumberFormatException
 * ArithmeticException
 * NullPointerException
 * ArrayIndexOutOfBoundsException
